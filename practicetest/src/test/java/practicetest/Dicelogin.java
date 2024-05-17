@@ -30,6 +30,7 @@ public class Dicelogin {
 		System.out.println("test loginsuccess");
 		System.out.println("First edit");
 		System.out.println("second edit");
+		System.out.println("Third edit without knowing other user has u[dated the master in Github.I dint do a pull");
 	}
 	@Test
 	public void loginfailure() {
