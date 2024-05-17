@@ -29,6 +29,7 @@ public class Dicelogin {
         driver.get("https://www.dice.com/dashboard/login");
 		System.out.println("test loginsuccess");
 		System.out.println("First edit");
+		System.out.println("second edit");
 	}
 	@Test
 	public void loginfailure() {
