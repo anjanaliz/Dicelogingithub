@@ -30,7 +30,11 @@ public class Dicelogin {
 		System.out.println("test loginsuccess");
 		System.out.println("First edit");
 		System.out.println("second edit");
+<<<<<<< HEAD
 		System.out.println("Third edit without knowing other user has u[dated the master in Github.I dint do a pull");
+=======
+		System.out.println("Third edit done on Github or mastr updated by another user");
+>>>>>>> branch 'master' of https://github.com/anjanaliz/Dicelogingithub
 	}
 	@Test
 	public void loginfailure() {
